@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jasontimlin10372/profile-generator.git"
+    "url": "git+ssh://git@github.com/jasontimlin10372/module-10-porfolio.git"
   },
   "author": "joshua ward",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jasontimlin10372/profile-generator/issues"
+    "url": "https://github.com/jasontimlin10372/module-10-portfolio/issues"
   },
-  "homepage": "https://github.com/jasontimlin10372/profile-generator#readme",
+  "homepage": "https://github.com/jasontimlin10372/module-10-portoflio#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^28.1.3"
